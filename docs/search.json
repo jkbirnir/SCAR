@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Studies in Comparative Anti-Racism",
+    "title": "Studies in Comparative Anti-Racism (SCAR)",
     "section": "",
     "text": "What strategies effectively dismantle structural racism and quell racially motivated violence? Research on structural racism proposes multiple paths towards decreasing race disparities. However, the effectiveness of these recommendations is largely empirically unsubstantiated because of the dismal track record of dismantling racism in the United States.\nTo address these questions, we employ a computational approach combined with in depth case analysis to construct the first longitudinal database on racism and strategies to combat racism world-wide. With attention to the theoretical tenets for addressing racism and under standing minority agency and innovation in face of racial inequity, this extensive collection of empirical evidence situates African Americans, Asian American-Pacific Islanders (AAPI), and Latinx Americans in a larger cross-national group-level database, supplemented with sub-national case study data from across the world."
   },
@@ -12,5 +12,54 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "cases.html",
+    "href": "cases.html",
+    "title": "cases",
+    "section": "",
+    "text": "United States\nEastern Europe\nIndia\nIndonesia\nColombia"
+  },
+  {
+    "objectID": "researchers.html",
+    "href": "researchers.html",
+    "title": "researchers",
+    "section": "",
+    "text": "The Maryland team\nThe Maryland team consists of faculty from the Behavioral and Social Sciences, Government and Politics (Birnir, Calvo and Johnson), and from Decisions Operations and Information Technology and Management and Organisation in the Smith Business School (respectively Bjarnadóttir and Waguespack). (Several members of the team in turn were founding members of the Interdisciplinary Laboratory of Computational Social Siences (ilcss.umd.edu))\n\n\nThe inter-University team\nThe work proposed here is also nested in a larger inter-University collaboration with researchers from the University of Michigan (led by Davenport), the newly created Politics of Race and Ethnicity Lab at the University of Texas at Austin (directed by Liu and McDaniel), and researchers at Howard University (led by Lusane)."
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "cases.html#eastern-europe",
+    "href": "cases.html#eastern-europe",
+    "title": "cases",
+    "section": "Eastern Europe",
+    "text": "Eastern Europe"
+  },
+  {
+    "objectID": "cases.html#india",
+    "href": "cases.html#india",
+    "title": "cases",
+    "section": "India",
+    "text": "India"
+  },
+  {
+    "objectID": "cases.html#indonesia",
+    "href": "cases.html#indonesia",
+    "title": "cases",
+    "section": "Indonesia",
+    "text": "Indonesia"
+  },
+  {
+    "objectID": "cases.html#colombia",
+    "href": "cases.html#colombia",
+    "title": "cases",
+    "section": "Colombia",
+    "text": "Colombia"
   }
 ]

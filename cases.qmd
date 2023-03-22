@@ -1,0 +1,15 @@
+---
+title: "cases"
+format: html
+editor: visual
+---
+
+United States
+
+Eastern Europe
+
+India
+
+Indonesia
+
+Colombia
