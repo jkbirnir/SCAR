@@ -1,12 +1,12 @@
 ---
-title: "researchers"
+title: ""
 format: html
 editor: visual
 ---
 
 # The Maryland team
 
-The Maryland team consists of faculty from the Behavioral and Social Sciences, Government and Politics (Birnir, Calvo and Johnson), and from Decisions Operations and Information Technology and Management and Organisation in the Smith Business School (respectively Bjarnadóttir and Waguespack). (Several members of the team in turn were founding members of the Interdisciplinary Laboratory of Computational Social Siences (ilcss.umd.edu))
+The Maryland team consists of faculty from the Behavioral and Social Sciences, Government and Politics (Birnir, Calvo and Johnson), and from Decisions Operations and Information Technology and Management and Organisation in the Smith Business School (respectively Bjarnadóttir and Waguespack). (Several members of the team in were founding members of the Interdisciplinary Laboratory of Computational Social Siences (ilcss.umd.edu))
 
 # The inter-University team
 
