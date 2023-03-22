@@ -6,7 +6,7 @@ editor: visual
 
 # The Maryland team
 
-The SCAR team at the University of Maryland consists of faculty from the Behavioral and Social Sciences, Government and Politics ([Birnir](https://johannabirnir.com/), [Calvo](http://gvptsites.umd.edu/calvo/) and [Johnson](https://sites.google.com/umd.edu/marcusjohnsonphd/about)), and from Decisions Operations and Information Technology and Management and Organisation in the Smith Business School (respectively [Bjarnadóttir](https://www.rhsmith.umd.edu/directory/margret-bjarnadottir) and [Waguespack](https://www.rhsmith.umd.edu/directory/david-m-waguespack)). (Several members of the team in were founding members of the Interdisciplinary Laboratory of Computational Social Siences ([ilcss.umd.edu](https://ilcss.umd.edu/)))
+The SCAR team at the University of Maryland consists of faculty from the Behavioral and Social Sciences, Government and Politics ([Birnir](https://johannabirnir.com/), [Calvo](http://gvptsites.umd.edu/calvo/) and [Johnson](https://sites.google.com/umd.edu/marcusjohnsonphd/about)), and from Decisions Operations and Information Technology and Management and Organisation in the Smith Business School (respectively [Bjarnadóttir](https://www.rhsmith.umd.edu/directory/margret-bjarnadottir) and [Waguespack](https://www.rhsmith.umd.edu/directory/david-m-waguespack)). (Several members of the team in were founding members of the Interdisciplinary Laboratory of Computational Social Siences ([ilcss.umd.edu](https://ilcss.umd.edu/)))  The Phd students on the Maryland team are [Overos](https://hdoveros.com/), [Pathak](https://gvpt.umd.edu/gradprofile/pathak/ojashwi) and [Dewar](https://gvpt.umd.edu/gradprofile/dewar/jordan-laura).
 
 # The inter-University team
 
