@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "SCAR"
+  navbar:
+    background: maroon
+    foreground: white
+    left:
+      - text: "SCAR"
+        href: index.qmd #href	Link to file contained with the project or external URL.
+      - text: "Cross National Data"
+        href: data.qmd
+      - text: "Case Studies"
+        href: cases.qmd
+      - text: "Affiliated Researchers"
+        href: researchers.qmd
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+    toc: true
+
+editor: visual
+
