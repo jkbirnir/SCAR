@@ -6,8 +6,8 @@ editor: visual
 
 # The Maryland team
 
-The Maryland team consists of faculty from the Behavioral and Social Sciences, Government and Politics (Birnir, Calvo and Johnson), and from Decisions Operations and Information Technology and Management and Organisation in the Smith Business School (respectively Bjarnadóttir and Waguespack). (Several members of the team in were founding members of the Interdisciplinary Laboratory of Computational Social Siences (ilcss.umd.edu))
+The Maryland team consists of faculty from the Behavioral and Social Sciences, Government and Politics ([Birnir](https://johannabirnir.com/), [Calvo](http://gvptsites.umd.edu/calvo/) and [Johnson](https://sites.google.com/umd.edu/marcusjohnsonphd/about)), and from Decisions Operations and Information Technology and Management and Organisation in the Smith Business School (respectively [Bjarnadóttir](https://www.rhsmith.umd.edu/directory/margret-bjarnadottir) and [Waguespack](https://www.rhsmith.umd.edu/directory/david-m-waguespack)). (Several members of the team in were founding members of the Interdisciplinary Laboratory of Computational Social Siences ([ilcss.umd.edu](https://ilcss.umd.edu/)))
 
 # The inter-University team
 
-The work proposed here is also nested in a larger inter-University collaboration with researchers from the University of Michigan (led by Davenport), the newly created Politics of Race and Ethnicity Lab at the University of Texas at Austin (directed by Liu and McDaniel), and researchers at Howard University (led by Lusane).
+The work proposed here is also nested in a larger inter-University collaboration with researchers from the University of Michigan (led by [Davenport](https://christiandavenportphd.weebly.com/)), the newly created Politics of Race and Ethnicity Lab at the University of Texas at Austin (directed by [Liu](http://www.amyhliu.com/) and [McDaniel](https://liberalarts.utexas.edu/government/faculty/elm377)), and researchers at Howard University (led by [Lusane](https://profiles.howard.edu/clarence-lusane)).
