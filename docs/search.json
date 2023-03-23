@@ -25,7 +25,7 @@
     "href": "researchers.html",
     "title": "",
     "section": "",
-    "text": "The Maryland team\nThe SCAR team at the University of Maryland consists of faculty from the Behavioral and Social Sciences, Government and Politics (Birnir, Calvo and Johnson), and from Decisions Operations and Information Technology and Management and Organisation in the Smith Business School (respectively Bjarnadóttir and Waguespack). (Several members of the team in were founding members of the Interdisciplinary Laboratory of Computational Social Siences (ilcss.umd.edu)) The Phd students on the Maryland team are Overos, Pathak and Dewar.\n\n\nThe inter-University team\nThe Maryland team is nested in a larger inter-University collaboration with researchers from the University of Michigan (led by Davenport), the newly created Politics of Race and Ethnicity Lab at the University of Texas at Austin (directed by Liu and McDaniel), and researchers at Howard University (led by Lusane)."
+    "text": "A multi-university team\nThe inter-disciplinary SCAR team consists of faculty from multiple departments at a variety of Universities. These inculde:\n\n\nUniversity of Maryland\n\nFaculty\nBirnir\nCalvo\nJohnson\nBjarnadóttir\nWaguespack\n\n\n\nPhd students:\nOveros\nPathak\nDewar\n\n\n\n\nUniversity of Michigan\n\nFaculty\nDavenport\n\n\n\nUniversity of Austin Texas\n\nFaculty\nLiu\nMcDaniel\n\n\n\nHoward University\n\nFaculty\nLusane"
   },
   {
     "objectID": "data.html",
@@ -61,5 +61,12 @@
     "title": "",
     "section": "Colombia",
     "text": "Colombia"
+  },
+  {
+    "objectID": "researchers.html#faculty",
+    "href": "researchers.html#faculty",
+    "title": "",
+    "section": "Faculty",
+    "text": "Faculty\nBirnir\nCalvo\nJohnson\nBjarnadóttir\nWaguespack\n\n##Phd students:\nOveros\nPathak\nDewar"
   }
 ]

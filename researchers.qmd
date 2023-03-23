@@ -4,10 +4,41 @@ format: html
 editor: visual
 ---
 
-# The Maryland team
+# A multi-university team
 
-The SCAR team at the University of Maryland consists of faculty from the Behavioral and Social Sciences, Government and Politics ([Birnir](https://johannabirnir.com/), [Calvo](http://gvptsites.umd.edu/calvo/) and [Johnson](https://sites.google.com/umd.edu/marcusjohnsonphd/about)), and from Decisions Operations and Information Technology and Management and Organisation in the Smith Business School (respectively [Bjarnadóttir](https://www.rhsmith.umd.edu/directory/margret-bjarnadottir) and [Waguespack](https://www.rhsmith.umd.edu/directory/david-m-waguespack)). (Several members of the team in were founding members of the Interdisciplinary Laboratory of Computational Social Siences ([ilcss.umd.edu](https://ilcss.umd.edu/)))  The Phd students on the Maryland team are [Overos](https://hdoveros.com/), [Pathak](https://gvpt.umd.edu/gradprofile/pathak/ojashwi) and [Dewar](https://gvpt.umd.edu/gradprofile/dewar/jordan-laura).
+The inter-disciplinary SCAR team consists of faculty from multiple departments at a variety of Universities.  These inculde:
 
-# The inter-University team
+# University of Maryland
 
-The Maryland team is nested in a larger inter-University collaboration with researchers from the University of Michigan (led by [Davenport](https://christiandavenportphd.weebly.com/)), the newly created Politics of Race and Ethnicity Lab at the University of Texas at Austin (directed by [Liu](http://www.amyhliu.com/) and [McDaniel](https://liberalarts.utexas.edu/government/faculty/elm377)), and researchers at Howard University (led by [Lusane](https://profiles.howard.edu/clarence-lusane)).
+### Faculty
+
+[Birnir](https://johannabirnir.com/)\
+[Calvo](http://gvptsites.umd.edu/calvo/)\
+[Johnson](https://sites.google.com/umd.edu/marcusjohnsonphd/about)\
+[Bjarnadóttir](https://www.rhsmith.umd.edu/directory/margret-bjarnadottir)\
+[Waguespack](https://www.rhsmith.umd.edu/directory/david-m-waguespack)\
+
+### Phd students:
+
+[Overos](https://hdoveros.com/)\
+[Pathak](https://gvpt.umd.edu/gradprofile/pathak/ojashwi)\
+[Dewar](https://gvpt.umd.edu/gradprofile/dewar/jordan-laura)\
+
+# University of Michigan
+
+### Faculty
+
+ [Davenport](https://christiandavenportphd.weebly.com/)
+ 
+# University of Austin Texas
+
+### Faculty
+
+[Liu](http://www.amyhliu.com/)\
+[McDaniel](https://liberalarts.utexas.edu/government/faculty/elm377)
+
+# Howard University
+
+### Faculty
+
+[Lusane](https://profiles.howard.edu/clarence-lusane)
